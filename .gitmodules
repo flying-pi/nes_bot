@@ -1,0 +1,3 @@
+[submodule "LaiNES"]
+	path = LaiNES
+	url = https://github.com/flying-pi/LaiNES.git
