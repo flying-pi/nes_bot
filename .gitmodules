@@ -1,3 +1,7 @@
 [submodule "LaiNES"]
 	path = LaiNES
 	url = https://github.com/flying-pi/LaiNES.git
+
+[submodule "simpleini"]
+	path = LaiNES/simpleini
+	url = https://github.com/brofield/simpleini.git
